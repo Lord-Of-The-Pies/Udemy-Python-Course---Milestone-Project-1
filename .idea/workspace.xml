@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e14b74-7e3f-422d-ba0e-6a4b2743491c" name="Changes" comment="Learning how to integrate pycharm and github using first Udemy course exam.&#10;&#10;New page introduced: Completed Game.&#10;This now holds the full completed code for a 'never ending' game of tic tac toe.&#10;&#10;Code allows for:&#10;accepting player name inputs at the start of the first game, but not afterwards.&#10;running score is maintained&#10;players can choose who goes first each round&#10;upon quiting game it will display a final total score" />
+    <list default="true" id="27e14b74-7e3f-422d-ba0e-6a4b2743491c" name="Changes" comment="final code hopefully&#10;&#10;final code hopefully">
+      <change beforePath="$PROJECT_DIR$/Completed Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Completed Game.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +138,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659443112711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="final code hopefully&#10;&#10;final code hopefully">
+      <created>1659444344794</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659444344795</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final code hopefully&#10;&#10;final code hopefully">
+      <created>1659444481945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659444481945</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final code hopefully&#10;&#10;final code hopefully">
+      <created>1659444488440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659444488440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +176,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Learning how to integrate pycharm and github using first Udemy course exam." />
     <MESSAGE value="Learning how to integrate pycharm and github using first Udemy course exam.&#10;&#10;New page introduced: Completed Game.&#10;This now holds the full completed code for a 'never ending' game of tic tac toe.&#10;&#10;Code allows for:&#10;accepting player name inputs at the start of the first game, but not afterwards.&#10;running score is maintained&#10;players can choose who goes first each round&#10;upon quiting game it will display a final total score" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning how to integrate pycharm and github using first Udemy course exam.&#10;&#10;New page introduced: Completed Game.&#10;This now holds the full completed code for a 'never ending' game of tic tac toe.&#10;&#10;Code allows for:&#10;accepting player name inputs at the start of the first game, but not afterwards.&#10;running score is maintained&#10;players can choose who goes first each round&#10;upon quiting game it will display a final total score" />
+    <MESSAGE value="final code hopefully&#10;&#10;final code fully checked and game now working, removed some 'DRY' sections of code.&#10;&#10;Unable to use function to reset board as 'row1' not resetting from within a function. (?)" />
+    <MESSAGE value="final code hopefully&#10;&#10;final code hopefully" />
+    <option name="LAST_COMMIT_MESSAGE" value="final code hopefully&#10;&#10;final code hopefully" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
