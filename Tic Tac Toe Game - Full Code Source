@@ -1,3 +1,6 @@
+# the entire code base for my project, this code does not currently run as there are sections that are repeated or incorrectly aligned, bad syntax etc.
+# i will be using this as the base from which to re-build the game as most of the code is good.
+
 row1 = ['1',  '2',  '3']
 row2 = ['4',  '5',  '6']
 row3 = ['7',  '8',  '9']
