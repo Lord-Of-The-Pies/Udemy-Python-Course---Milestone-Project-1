@@ -78,7 +78,7 @@ def win_lines():
 command = ""
 while command != "quit":
     win = False
-    command = input(f"Play or Quit? start: ").lower()
+    command = input(f"Play or Quit?: ").lower()
     if command == "quit":
         print("Thanks for Playing")
     elif command != "quit" or command != "play"
