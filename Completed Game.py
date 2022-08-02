@@ -92,6 +92,16 @@ while command != "quit":
     else:
         print("Invalid Entry")
 
+    row1 = ['1', '2', '3']
+    row2 = ['4', '5', '6']
+    row3 = ['7', '8', '9']
+    player_x_counter = 4
+    player_0_counter = 4
+    game_piece = ""
+    player_0_counter_display = player_0_counter * "0"
+    player_x_counter_display = player_x_counter * "X"
+    taken_numbers = []
+
     if game_ready == 1:
         while game_ready == 1:
             game_piece = input(f"0 or X to go first? ")
@@ -106,6 +116,7 @@ while command != "quit":
 
         player_0_counter_display = player_0_counter * "0"
         player_x_counter_display = player_x_counter * "X"
+
 
         while win == False:
             while player_x_counter + player_0_counter > 0:
@@ -155,15 +166,6 @@ while command != "quit":
                     print(f"CONGRATULATIONS {winner}, you have won!")
                     game_board()
                     win = True
-                    row1 = ['1', '2', '3']
-                    row2 = ['4', '5', '6']
-                    row3 = ['7', '8', '9']
-                    player_x_counter = 4
-                    player_0_counter = 4
-                    game_piece = ""
-                    player_0_counter_display = player_0_counter * "0"
-                    player_x_counter_display = player_x_counter * "X"
-                    taken_numbers = []
                     game_count += 1
                     break
                 else:
@@ -172,14 +174,6 @@ while command != "quit":
             if player_x_counter + player_0_counter == 0 and win == False:
                 print("Out Of Moves!")
                 win = True
-                row1 = ['1', '2', '3']
-                row2 = ['4', '5', '6']
-                row3 = ['7', '8', '9']
-                player_x_counter = 4
-                player_0_counter = 4
-                player_0_counter_display = player_0_counter * "0"
-                player_x_counter_display = player_x_counter * "X"
-                taken_numbers = []
                 game_count += 1
                 break
             elif player_x_counter + player_0_counter == 0 and win == True:
@@ -194,15 +188,6 @@ while command != "quit":
                     print(f"CONGRATULATIONS {winner}, you have won!")
                     game_board()
                     win = True
-                    row1 = ['1', '2', '3']
-                    row2 = ['4', '5', '6']
-                    row3 = ['7', '8', '9']
-                    player_x_counter = 4
-                    player_0_counter = 4
-                    game_piece = ""
-                    player_0_counter_display = player_0_counter * "0"
-                    player_x_counter_display = player_x_counter * "X"
-                    taken_numbers = []
                     game_count += 1
                     break
                 else:
