@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27e14b74-7e3f-422d-ba0e-6a4b2743491c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test page.py" afterDir="false" />
-    </list>
+    <list default="true" id="27e14b74-7e3f-422d-ba0e-6a4b2743491c" name="Changes" comment="Learning how to integrate pycharm and github using first Udemy course exam." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659437762770</updated>
     </task>
+    <task id="LOCAL-00001" summary="Learning how to integrate pycharm and github using first Udemy course exam.">
+      <created>1659439282968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659439282968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning how to integrate pycharm and github using first Udemy course exam." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning how to integrate pycharm and github using first Udemy course exam." />
   </component>
 </project>
